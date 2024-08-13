@@ -1,0 +1,30 @@
+
+#first{
+    height:"200px";
+    width:"300px";
+    background-color: blue;
+    text-align: right;
+}
+
+#second{
+    text-align: right;
+    text-align: right;
+}
+
+h1{text-align: right;}
+h2{text-align: right;}
+h3{text-align: right;}
+
+#third{
+    text-align: right;
+}
+
+#four{
+    text-align: right;
+}
+
+footer{
+    height: 150px;
+    width: 100%;
+    background-color:whitesmoke;
+}
