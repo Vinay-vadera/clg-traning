@@ -1,0 +1,33 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+    position:sticky;
+    top: 0;
+}
+
+#content{
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    background-color:#f08804;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 200px;
+}
+#a{
+    font-size: 25px;
+    color: #f08804;
+}
+button{
+    background-color: #f08804;
+}
